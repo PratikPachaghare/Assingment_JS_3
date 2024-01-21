@@ -1,0 +1,7 @@
+![marks_check](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/f09d442e-5ce9-4235-9dbe-cfdb8f7f4f23)
+![looping2](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/635480c2-b991-4580-a722-caaa612000b9)
+![looping1](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/30fa865f-5abf-4e5d-ad63-6821d4c9e766)
+![genrate number](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/ce7d0ab9-169e-460f-bba1-559d2d8f97c8)
+![deccending order num](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/f03036c6-5bd9-4149-aa90-f07c63c6f4ef)
+![condition_statment](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/4e02ca65-2c59-401e-a9f4-c1e6bdb97d43)
+![aceending order num](https://github.com/PratikPachaghare/Assingment_JS_3/assets/147168944/e1b73c08-16d6-4198-9a04-e1223fa65029)
